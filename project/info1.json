@@ -1,0 +1,56 @@
+[{
+    "id":"Maharastra",
+    "code":"MH"
+},
+{
+    "id":"Andhra Pradesh",
+    "code":"AP"
+},
+{
+    "id":"Arunachal Pradesh",
+    "code":"AR"
+},
+{
+    "id":"Assam",
+    "code":"AS"
+},
+{
+    "id":"Bihar",
+    "code":"BR"
+},
+{
+    "id":"Chhattisgarh",
+    "code":"CG"
+},
+{
+    "id":"Goa",
+    "code":"GA"
+},
+{
+    "id":"Gujarat",
+    "code":"GJ"
+},
+{
+    "id":"Haryana",
+    "code":"HR"
+},
+{
+    "id":"Himachal Pradesh",
+    "code":"HP"
+},
+{
+    "id":"Jharkhand",
+    "code":"JH"
+},
+{
+    "id":"Karnataka",
+    "code":"KA"
+},
+{
+    "id":"Madyaprsdesh",
+    "code":"MP"
+},
+{
+    "id":"Kerala",
+    "code":"KL"
+}]
